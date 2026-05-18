@@ -1,4 +1,3 @@
-# Geofit
 <img width="1488" height="719" alt="banner" src="https://github.com/user-attachments/assets/b46ba60b-ddb3-4f25-933f-07bc44c76b03" />
 
 Geofit es una aplicación móvil desarrollada para ayudar a los usuarios a mejorar sus hábitos saludables mediante el control de actividad física, nutrición y seguimiento personal diario.
