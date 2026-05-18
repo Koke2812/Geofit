@@ -1,6 +1,7 @@
 <img width="941" height="450" alt="image" src="https://github.com/user-attachments/assets/83b62b56-55b6-4fd8-912f-60082d1f7a50" />
 
 
+
 Geofit es una aplicación móvil desarrollada para ayudar a los usuarios a mejorar sus hábitos saludables mediante el control de actividad física, nutrición y seguimiento personal diario.
 
 La aplicación ha sido diseñada con una interfaz sencilla, intuitiva y fácil de utilizar, permitiendo que cualquier usuario pueda acceder rápidamente a sus funciones sin necesidad de conocimientos técnicos.
@@ -63,4 +64,4 @@ La aplicación ha sido desarrollada como proyecto académico y educativo con fin
 
 # Autor
 
-Proyecto desarrollado por Koke2812.
+Proyecto desarrollado por Jorge Sánchez (Koke2812) .
