@@ -1,6 +1,6 @@
 # Geofit
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86dcb3a5-9afb-4ed1-aef8-7f6e2a9abbd2" style="width:80%; max-width:900px;">
+  <img src="https://github.com/user-attachments/assets/86dcb3a5-9afb-4ed1-aef8-7f6e2a9abbd2" style="width:150px; max-width:900px;">
 </p>
 
 
